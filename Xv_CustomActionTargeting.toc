@@ -1,0 +1,14 @@
+## Title:|cff0099ffXv|r |cff00c0ffCustom Action Targeting|r
+## Notes: Xv_CustomActionTargeting
+
+## DefaultState: enabled
+## Author: Xilver
+## Version: @project-version@
+
+## Interface: 110107
+
+## X-Curse-Project-ID: 874647
+
+## IconTexture: Interface\AddOns\Xv_CustomActionTargeting\Media\Textures\XvUI_Logo
+
+Init.lua
