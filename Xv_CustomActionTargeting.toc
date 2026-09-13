@@ -5,7 +5,7 @@
 ## Author: Xilver
 ## Version: @project-version@
 
-## Interface: 120000, 120001
+## Interface: 120100
 
 ## X-Curse-Project-ID: 874647
 
